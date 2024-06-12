@@ -1,0 +1,6 @@
+torch
+datasets
+numpy
+tensorflow
+huggingface_hub
+scikit-learn

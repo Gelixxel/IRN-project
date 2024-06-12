@@ -11,3 +11,5 @@ pip install -r requirements.txt
 
 # STEP 2 :
 python3 galaxy_classification.py
+or
+execute sections in the galaxy_classification.ipynb file

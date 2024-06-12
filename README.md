@@ -10,4 +10,4 @@ Assuming you already have python3 and a working pip packet manager
 pip install -r requirements.txt
 
 # STEP 2 :
-python3 training.py
+python3 galaxy_classification.py

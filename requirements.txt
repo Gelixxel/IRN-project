@@ -1,6 +1,8 @@
-torch
-datasets
 numpy
 tensorflow
-huggingface_hub
 scikit-learn
+datasets
+pillow
+torch
+# huggingface_hub
+# h5py
